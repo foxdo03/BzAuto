@@ -1,3 +1,5 @@
+'use strict';
+
 // since page is scorlling down, dark mode
 
 const header = document.querySelector('.header');
